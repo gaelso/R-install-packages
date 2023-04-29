@@ -37,6 +37,11 @@ install_package("blogdown")
 install_package("learnr")
 install_package("gradethis")
 
+install_package('tinytex')
+# install TinyTeX
+if (!tinytex::is_tinytex()) tinytex::install_tinytex()
+
+
 ## Custom fonts
 install_package("extrafont")
 install_package("showtext")
