@@ -1,5 +1,6 @@
-# R-install-packages
-List packages to install for various data analysis workflows
+# List of R packages and other developer tools to install
+
+- R packages in install.R
 
 
 Additional developer tools
