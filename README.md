@@ -1,9 +1,11 @@
 # List of R packages and other developer tools to install
 
+## R
+
 - R packages in install.R
 
 
-Additional developer tools
+## Additional developer tools
 
 Git: 
 - macOS: App store / Xcode
